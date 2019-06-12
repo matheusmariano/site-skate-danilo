@@ -1,0 +1,7 @@
+clear: both;
+    background-color: #808080;
+    height: 50px;
+    text-align: center;
+    padding: 10px;
+    text-shadow: 1px 1px 0 #111111;
+    font-size: 12px;
